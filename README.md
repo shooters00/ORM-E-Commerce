@@ -5,6 +5,9 @@
 ## Description
 This project builds the back end for an e-commerce site by modifying starter code. It configures a working Express.js API to use Sequelize to interact with a MySQL database.
 
+## Video
+https://drive.google.com/file/d/1oct_Hpd6dlaxyY9eZLzXmb1uxvfmuGlq/view
+
 #### Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
